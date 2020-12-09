@@ -1,0 +1,7 @@
+P:\Digital\VS\Alexander Topliss-Yates\Gym_Software\Gym_Software\bin\Debug\Gym_Software.exe.config
+P:\Digital\VS\Alexander Topliss-Yates\Gym_Software\Gym_Software\bin\Debug\Gym_Software.exe
+P:\Digital\VS\Alexander Topliss-Yates\Gym_Software\Gym_Software\bin\Debug\Gym_Software.pdb
+P:\Digital\VS\Alexander Topliss-Yates\Gym_Software\Gym_Software\obj\Debug\Gym_Software.csprojAssemblyReference.cache
+P:\Digital\VS\Alexander Topliss-Yates\Gym_Software\Gym_Software\obj\Debug\Gym_Software.csproj.CoreCompileInputs.cache
+P:\Digital\VS\Alexander Topliss-Yates\Gym_Software\Gym_Software\obj\Debug\Gym_Software.exe
+P:\Digital\VS\Alexander Topliss-Yates\Gym_Software\Gym_Software\obj\Debug\Gym_Software.pdb
